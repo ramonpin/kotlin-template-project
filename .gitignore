@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+KotlinSample.iml
+dependency-reduced-pom.xml
+target/
